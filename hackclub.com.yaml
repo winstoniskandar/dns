@@ -531,6 +531,10 @@ milesmac:
   ttl: 1
   type: CNAME
   value: 7b6d4e2f-ac5b-41f5-ab5e-d3c248bcda0c.repl.co.
+costa:
+    - ttl: 1
+  type: CNAME
+  value: miracosta.netlify.com.
 mumble:
 - ttl: 1
   type: A
@@ -807,4 +811,4 @@ zapdos.servers:
   type: A
   value: 45.79.138.244
 
-  
+
